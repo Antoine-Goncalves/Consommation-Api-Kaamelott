@@ -30,4 +30,12 @@ export default {
 </script>
 
 <style lang="scss">
+.perceval {
+  font-size: 2rem;
+  text-align: center;
+}
+.text {
+  background-color: gray;
+  margin-bottom: 2rem;
+}
 </style>
