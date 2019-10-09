@@ -33,6 +33,10 @@ export default {
 .perceval {
   font-size: 2rem;
   text-align: center;
+  color: black;
+}
+.quote {
+  color: antiquewhite;
 }
 .text {
   background-color: gray;
